@@ -1,5 +1,5 @@
 # Autoencoderg
-(Yes, it's a portmanteau of *auntoencoder* and *derg*, as in dragon)
+(Yes, it's a portmanteau of *autoencoder* and *derg*, as in dragon)
 
 <!--
 **Autoencoderg/Autoencoderg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
